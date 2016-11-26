@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>ru.send-to.barcode</groupId>
 	<artifactId>MultiThreadBarcodeLauncher</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>Multithread Barcode Launcher</name>
 
 	<url>https://github.com/nleva/zxingLauncher</url>
@@ -27,7 +27,7 @@
 	<scm>
 		<url>https://github.com/nleva/zxingLauncher</url>
 		<connection>scm:git:https://github.com/nleva/zxingLauncher.git</connection>
-		<developerConnection>scm:git:https://github.com/nleva/TelegramBotJavaApi.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/nleva/zxingLauncher.git</developerConnection>
 	  <tag>MultiThreadBarcodeLauncher-0.0.2</tag>
   </scm>
 
